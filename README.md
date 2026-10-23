@@ -89,6 +89,6 @@ Visit `http://localhost:3000` to interact with the application.
 - [x] Team Code: `HK-3BBAST` (Track: LLM apps)
 - [x] Crustdata $1,500 Credits Activated
 - [x] GitHub Repository linked: [KGupta171025/Hamingo_Hackathon](https://github.com/KGupta171025/Hamingo_Hackathon)
-- [ ] Star Keploy repo & complete dashboard verification
-- [ ] Integrate Crustdata API key in backend
-- [ ] Record 3-minute demo video (Submissions open 4 Dec - 6 Dec 2026)
+- [x] Star Keploy repo & complete dashboard verification
+- [x] Integrate Crustdata API key in backend
+- [x] Record 3-minute demo video (Submissions open 4 Dec - 6 Dec 2026)
